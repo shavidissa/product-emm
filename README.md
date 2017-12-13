@@ -1,4 +1,4 @@
-##WSO2 ENTERPRISE MOBILITY MANAGER
+#WSO2 ENTERPRISE MOBILITY MANAGER
 
 [![Build Status](https://wso2.org/jenkins/buildStatus/icon?job=product-emm)](https://wso2.org/jenkins/view/Dashboard/job/product-emm/)
 
@@ -6,7 +6,7 @@ WSO2 ENTERPRISE MOBILITY MANAGER (WSO2 EMM) is a comprehensive platform that hel
 
 Whether it is device provisioning, device configuration management, policy enforcement, mobile application management, device data security, or compliance monitoring, WSO2 MDM offers a single enterprise-grade platform.
 
-###FEATURES
+#FEATURES
 
 #####Enterprise Mobility Management (EMM)
 * Self-service device enrollment and management with end-user MDM console
